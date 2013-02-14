@@ -17,12 +17,12 @@ GEM
       ruby-hmac
     formatador (0.2.1)
     mime-types (1.18)
-    multi_json (1.2.0)
+    multi_json (1.6.1)
     net-scp (1.0.4)
       net-ssh (>= 1.99.1)
     net-ssh (2.3.0)
     nokogiri (1.5.2)
-    rack (1.4.1)
+    rack (1.5.2)
     rack-protection (1.2.0)
       rack
     ruby-hmac (0.4.0)
